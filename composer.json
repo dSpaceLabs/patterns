@@ -1,0 +1,13 @@
+{
+    "name": "dspacelabs/patterns",
+    "description": "Various interfaces and abstract classes that are used for design patterns",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua Estes",
+            "email": "JoshuaEstes@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
